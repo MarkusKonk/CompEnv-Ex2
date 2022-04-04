@@ -2,7 +2,7 @@ name: CompEnv-Ex2
 channels:
   - defaults
 dependencies:
-  - python=2.7.*
+  - python=3
   - pip
   - pip:
     - matplotlib==2.0.*
